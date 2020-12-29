@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(10, 27, 49);
+}
+
+#container{
+    text-align: center;
+    padding: 20px;
+    margin-top: 200px;
+    background-color: white;
+}
+
+#text{
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: grey;
+    padding: 20px;
+    margin: 0;
+}
+
+#count{
+    font-size: 64px;
+    font-family: Comic Sans Ms;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
